@@ -10,7 +10,6 @@ CLIENT=$2
 CFG=$3
 SUBJ="/C=RO/ST=Bucharest/L=Bucharest/O=upb/OU=cti/CN=$4/emailAddress=a@b.com"
 
-# Create client certificate
 # Create client certificate request
 openssl req -days 3650 -nodes -new -keyout $DIR/$CLIENT.key -out $DIR/$CLIENT.csr \
 	-config $CFG -subj $SUBJ

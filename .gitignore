@@ -53,3 +53,9 @@ dkms.conf
 
 # VM folder...
 VMs/
+
+# Binaries
+*.zip
+
+# VSCode
+.vscode/

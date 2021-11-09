@@ -21,3 +21,8 @@ In addition, as a bonus, an IPSec VPN is also created between the same 2 VMs.
 
 ### Lab 4 - Programatic SSL/TLS
 A stupid TLS client written in C and another screenshot of an `openssl s_client` command...
+
+
+### Lab 5 - Wi-Fi Security
+In theory, this lab teaches you how to crack Wi-Fi passwords using [aircrack-ng](https://www.aircrack-ng.org/doku.php?id=Main).
+But, in reality, it's just a bunch of empty commands to be copy-pasted from the lab sheet into the terminal :(.

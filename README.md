@@ -33,6 +33,14 @@ A simple web page that uses OAuth.
 It served me well in crafting [this grading script](https://github.com/teodutu/Scripts/blob/main/lab-grading/grade.py).
 
 
+### Lab 7 - Discussion about Assignments
+Literally nothing.
+
+
+### Lab 8 - Snort
+Basically a user-space iptables with a somewhat more intelligible syntax.
+However, being a low-key iptables, it's still disgusting.
+
 
 ### Courses
 Various course materials (merged slides, notes from students etc) are included in the [Courses](./Courses) folder.

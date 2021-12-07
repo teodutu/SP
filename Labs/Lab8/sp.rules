@@ -1,0 +1,8 @@
+# ICMP
+alert icmp $HOME_NET any <> any any (msg:"ICMP packet";sid:1;rev:1;)
+
+# Malware website
+alert tcp any any -> $HOME_NET any (msg:"Website contains the word 'malware'";sid:2;rev:1;content:"malware";)
+
+# Block Reddit
+reject tcp $HOME_NET any -> any any (msg:"STOP PROCRASTINATING!!!";sid:3;rev:1;content:"reddit.com";)

@@ -26,3 +26,8 @@ A stupid TLS client written in C and another screenshot of an `openssl s_client`
 ### Lab 5 - Wi-Fi Security
 In theory, this lab teaches you how to crack Wi-Fi passwords using [aircrack-ng](https://www.aircrack-ng.org/doku.php?id=Main).
 But, in reality, it's just a bunch of empty commands to be copy-pasted from the lab sheet into the terminal :(.
+
+
+### Lab 6 - Google OAuth
+A simple web page that uses OAuth.
+It served me well in crafting [this grading script](https://github.com/teodutu/Scripts/blob/main/lab-grading/grade.py).

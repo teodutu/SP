@@ -31,3 +31,8 @@ But, in reality, it's just a bunch of empty commands to be copy-pasted from the 
 ### Lab 6 - Google OAuth
 A simple web page that uses OAuth.
 It served me well in crafting [this grading script](https://github.com/teodutu/Scripts/blob/main/lab-grading/grade.py).
+
+
+
+### Courses
+Various course materials (merged slides, notes from students etc) are included in the [Courses](./Courses) folder.

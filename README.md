@@ -42,5 +42,10 @@ Basically a user-space iptables with a somewhat more intelligible syntax.
 However, being a low-key iptables, it's still disgusting.
 
 
+### Lab 9 - Offline Traffic Analysis
+Wireshark and snort (bleah...) are used to analyse some `.pcap` files.
+Boring...
+
+
 ### Courses
 Various course materials (merged slides, notes from students etc) are included in the [Courses](./Courses) folder.

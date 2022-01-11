@@ -47,5 +47,9 @@ Wireshark and snort (bleah...) are used to analyse some `.pcap` files.
 Boring...
 
 
+### Lab 10 - SQL Injection
+The basic [DVWA setup](https://dvwa.co.uk/) is attacked in order to showcase a trivial SQL Injection attack.
+
+
 ### Courses
 Various course materials (merged slides, notes from students etc) are included in the [Courses](./Courses) folder.
